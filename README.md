@@ -10,3 +10,8 @@ Usage from macOS User Guide of Apple Support:
 Calculate and show total length of selected video/audio files.     
 It needs `ffmpeg` installed. You can install it by `brew install ffmpeg`.
 
+## Keyboard Maestro
+
+### ToggleDarkModeBasedonBrightness
+
+You should run `brew install brightness` before using it.
